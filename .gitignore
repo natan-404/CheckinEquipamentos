@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+bin/
+obj/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini

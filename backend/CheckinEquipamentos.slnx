@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../agent/Checkin.Agent/Checkin.Agent.csproj" />
+  <Project Path="Checkin.Api/Checkin.Api.csproj" />
+  <Project Path="Checkin.Application/Checkin.Application.csproj" />
+  <Project Path="Checkin.Domain/Checkin.Domain.csproj" />
+  <Project Path="Checkin.Infrastructure/Checkin.Infrastructure.csproj" />
+</Solution>
